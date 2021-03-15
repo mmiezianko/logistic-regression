@@ -1,4 +1,3 @@
-# logistic_regression
 
 ---
 "Wstęp do analizy danych"
