@@ -1,12 +1,9 @@
 # logistic_regression
 
 ---
-title: "Wstęp do analizy danych"
+"Wstęp do analizy danych"
 author: "Majka Miezianko, Marek Czerwonka"
-date: "22 01 2021"
-output:
-  html_document: default
-  word_document: default
+
 ---
 
 # Analiza budżetów gospodarstw domowych we Włoszech 
