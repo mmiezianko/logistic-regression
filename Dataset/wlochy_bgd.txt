@@ -1,0 +1,92 @@
+Metryczka:
+Mese 	= miesiąc badania (w 2011 roku)
+Region  = Region zamieszkania
+		1 = Piemont i Valle d'Aosta
+		3 = Lombardia
+		4 = Trentino Alto Adige
+		5 = Veneto
+		6 = Friuli Venezia Giulia
+		7 = Liguria
+		8 = Emilia Romagna
+		9 = Toskania
+		10 = Umbria
+		11 = Marki
+		12 = Lazio
+		13 = Abruzja
+		14 = Molise
+		15 = Kampania
+		16 = Apulia
+		17 = Basilicata
+		18 = Kalabria
+		19 = Sycylia
+		20 = Sardynia
+
+TIPFAM 	= typ rodziny
+		1 = Osoba samotna w wieku poniżej 35 lat
+		2 = Osoba samotna w wieku 35-64 lat
+		3 = Osoba samotna w wieku 65 lat i starsza
+		4 = Para bez dzieci z osobą kontaktową poniżej 35 roku życia
+		5 = Para bez dzieci z osobą kontaktową w wieku 35-64 lat
+		6 = Para bez dzieci z osobą kontaktową w wieku 65 lat i starszą
+		7 = para z 1 dzieckiem
+		8 = para z 2 dziećmi
+		9 = para z 3 i więcej dziećmi
+		10 = samotny rodzic
+		11 = inne typy
+
+NC 	= liczba osób w gospodarstwie domowym
+
+
+
+
+Wydatki na żywność:
+Chleb i zboża: 		C_1101; C_1102; C_1103; C_1104; C_1105; C_1106; C_1107
+Mięso: 			C_1201; C_1202; C_1203; C_1204; C_1205; C_1206; C_1207; C_1208; C_1209; C_1297
+Ryba: 			C_1301; C_1302; C_1303; C_1304
+Owoce			C_1601; C_1602; C_1603; C_1604; C_1605; C_1606; C_1607; C_1608; C_1609
+Napoje			C_1803; C_1804; C_1805; C_1806; C_1807; C_1808
+
+C_1101 Chleb, paluszki chlebowe i krakersy
+C_1102 Herbatniki, sucharki itp.
+C_1103 Zwykły makaron jajeczny, przygotowany i nadziewany
+C_1104 Ryż
+C_1105 Mąka
+C_1106 Pozostałe zboża i przetwory (kukurydza, pizze itp.)
+C_1107 Ciasta i wyroby cukiernicze
+ 
+Mięso (świeże i mrożone) i wędliny
+C_1201 Cielęcina i wołowina
+C_1202 Mięso wołowe
+C_1203 Mięso wieprzowe
+C_1204 Konina
+C_1205 Mięso baranie i jagnięce
+C_1206 Drób
+C_1207 Króliki, indyki, dziczyzna
+C_1208 Wędliny (kiełbasy, bekon, szynka, würstel)
+C_1209 Przetwory i konserwy mięsne (żywność dietetyczna)
+C_1297 Inne mięso (określić)
+
+Ryba
+C_1301 Ryby świeże lub mrożone
+C_1302 Ryby konserwowane, suszone, wędzone
+C_1303 Skorupiaki i inne owoce morza (świeże lub mrożone)
+C_1304 Inne produkty na bazie ryb
+
+Owoce
+C_1601 Owoce cytrusowe
+C_1602 Banany
+C_1603 Jabłka
+C_1604 Gruszki
+C_1605 Owoce z pestką
+C_1606 Winogrona i truskawki
+C_1607 Inne świeże owoce
+C_1608 Suszone owoce
+C_1609 Owoce konserwowane lub mrożone
+
+Napoje
+C_1803 Wino
+C_1804 Piwo
+C_1805 Likiery, szampan, aperitify alkoholowe itp.
+C_1806 Woda mineralna
+C_1807 Soki owocowe, pomidorowe itp.
+C_1808 Chinotti, cola i inne napoje bezalkoholowe
